@@ -8,10 +8,6 @@
     "type": "git",
     "url": "git@github.com:bootenv/loopback-ds-ips-mixin.git"
   },
-  "engines": {
-    "iojs": "2.1.x",
-    "npm": "2.11.x"
-  },
   "main": "index.js",
   "scripts": {
     "pretest": "jscs . && jshint .",
